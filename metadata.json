@@ -1,0 +1,6 @@
+{
+  "name": "MineList",
+  "description": "A premium Minecraft Server Advertising Website featuring server voting, sorting, categories, and premium placements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
